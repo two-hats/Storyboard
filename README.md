@@ -23,7 +23,11 @@ Mac OS: /Applications/Adobe lllustrator CC 2014/Presets/[language]/Scripts/
 
 Your artboards will be arranged, and will be similar to a storyboard. Each screen comes with allows.
 
+**Before**
+
 ![Qucik-exporter main panel](https://raw.github.com/wiki/two-hats/Storyboard/images/20150806-01.png)
+
+**After**
 
 ![Qucik-exporter option panel](https://raw.github.com/wiki/two-hats/Storyboard/images/20150806-02.png)
 
