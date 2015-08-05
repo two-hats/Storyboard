@@ -23,7 +23,13 @@ Mac OS: /Applications/Adobe lllustrator CC 2014/Presets/[language]/Scripts/
 
 Your artboards will be arranged, and will be similar to a storyboard. Each screen comes with allows.
 
+![Qucik-exporter main panel](https://raw.github.com/wiki/two-hats/Storyboard/images/20150806-01.png)
+
+![Qucik-exporter option panel](https://raw.github.com/wiki/two-hats/Storyboard/images/20150806-02.png)
+
 The specialized tags are quite simple!! The tags consist of the sequence numbers combined hyphens together as below. 
+
+![Qucik-exporter option panel](https://raw.github.com/wiki/two-hats/Storyboard/images/20150806-03.png)
 
 
 ## See more details
