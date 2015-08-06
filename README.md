@@ -21,7 +21,7 @@ Mac OS: /Applications/Adobe lllustrator CC 2014/Presets/[language]/Scripts/
 1. Add specialized tags to the name of your artboards.
 2. Execute this script.
 
-Your artboards will be arranged, and will be similar to a storyboard. Each screen comes with allows.
+Your artboards will be arranged, and will be similar to a storyboard. Each screen comes with arrows indicating the next screens.
 
 **Before**
 
