@@ -5,7 +5,8 @@ I realized how useful the artboard function is when I started to use illustrator
 
 I had to make and manage multiple files for an application when I used Photoshop. It was horroble to modify many things. In illustrator, however, I can see all screens in a AI file and modify such a big change quicker than before.
 
-I came up with this idea that transforms the artboards into a Storyboard. I thought it will be useful for UI designers.
+I came up with this idea that transforms the artboards into a Storyboard. I thought it will be useful for UI designers. 
+You will be able to know and review how your application works immediately.
 
 I hope you will be satisfied with it.
 
