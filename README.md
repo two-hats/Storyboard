@@ -1,7 +1,11 @@
 # Storyboard.jsx
 **It can transform your artboards into a Storyboard!!**
 
-I realized how useful the artboard function is when I started to use illustrator for UI designs. I came up with this idea that transforms the artboards into a Storyboard. I thought it will become useful. 
+I realized how useful the artboard function is when I started to use illustrator for UI designs. I became able to integrate multiple screens into an AI file.
+
+I had to make and manage multiple files for an application when I used Photoshop. It was horroble to modify many things. However In illustrator, I can see all screens in a AI file and modify such a big change quicker than before.
+
+I came up with this idea that transforms the artboards into a Storyboard. I thought it will be useful for UI designers.
 
 I hope you will be satisfied with it.
 
